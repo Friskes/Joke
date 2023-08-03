@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Joke
+## Author: Friskes
+## Notes: Move your interface in the arena.
+## Notes-ruRU: Двигаю твой интерфейс на арене.
+
+Joke.lua
